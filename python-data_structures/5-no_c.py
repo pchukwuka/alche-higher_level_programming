@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 no_c = _import_('5-no_c').no_c
 
 print(no_c("Best School"))
